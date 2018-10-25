@@ -1,2 +1,1 @@
-Initial commit
-2 Python Notebooks
+Trabajos de la asignatura Sistemas Cognitivos Artificiales
